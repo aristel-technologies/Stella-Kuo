@@ -594,22 +594,14 @@ nav ul {
    ========================================== */
 
 .article-image {
-
-    width: 250px;
-
-    max-width: 90%;
-
+    /* Change the value below to make the image smaller (e.g., 150px or 200px) */
+    width: 150px; 
+    
+    max-width: 50%;
     height: auto;
-
     display: block;
-
     margin: 40px auto;
-
     border-radius: 15px;
-
     border: 1px solid #222;
-
-    box-shadow:
-    0 0 25px rgba(0,255,255,0.25);
-
+    box-shadow: 0 0 25px rgba(0,255,255,0.25);
 }
