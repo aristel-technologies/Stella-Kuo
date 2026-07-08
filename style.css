@@ -459,30 +459,7 @@ nav ul {
 
 
 
-/* Article image */
 
-/* AI-RAN article image size */
-
-.article-image {
-
-    width:70%;
-
-    max-width:600px;
-
-    height:auto;
-
-    display:block;
-
-    margin:40px auto;
-
-    border-radius:20px;
-
-    border:1px solid #222;
-
-    box-shadow:
-    0 0 25px rgba(0,255,255,0.25);
-
-}
 
 /* Article text */
 
