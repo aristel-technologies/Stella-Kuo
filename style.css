@@ -461,6 +461,8 @@ nav ul {
 
 /* Article image */
 
+/* AI-RAN article image size */
+
 .article-image {
 
     width:70%;
@@ -481,7 +483,6 @@ nav ul {
     0 0 25px rgba(0,255,255,0.25);
 
 }
-
 
 /* Article text */
 
@@ -609,4 +610,14 @@ nav ul {
 }
 
 
+}
+
+/* AI-RAN article image size */
+
+.article-image {
+    width: 450px !important;
+    max-width: 90% !important;
+    height: auto !important;
+    display: block;
+    margin: 40px auto;
 }
